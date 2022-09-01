@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yvens94
-- 👀 I’m interested in creating through coding
-- 🌱 I’m currently learning how to code in python and Java
+- 👋 Hi, I’m Yvens 
+- 👀 I’m interested in helping organizations to make data driven decisions
+- 🌱 I’m currently making a carreer change to Data science and data analysis
 - 💞️ I’m looking to collaborate on projects that can helpe me improve and learn
 - 📫 How to reach me ayvenjee@gmail.com  
 
