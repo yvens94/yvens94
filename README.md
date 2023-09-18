@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yvens 
 - 👀 I’m interested in helping organizations to make data driven decisions
-- 🌱 I’m currently making a carreer change to Data science and data analysis
-- 💞️ I’m looking to collaborate on projects that can helpe me improve and learn
+- 🌱 Big Nerd og Machine Learning and deep learing
+- 💞️ I’m looking to collaborate on projects that can help me improve and learn
 - 📫 How to reach me ayvenjee@gmail.com  
 
 <!---
