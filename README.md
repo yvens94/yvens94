@@ -20,7 +20,7 @@
 username=coderkai03&hide=makefile,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/yvens94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yvens943&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yvens94&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!---
 yvens94/yvens94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
