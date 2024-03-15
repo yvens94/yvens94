@@ -1,6 +1,6 @@
 ### Hi there, I'm Jean Yvens Alberus 👋
 
-<img src='' title='Yvens' width='50%' alt='My Intro' />
+<img src='https://github.com/yvens94/yvens94/blob/main/Screenshot%202024-03-15%20120713.png' title='Yvens' width='50%' alt='My Intro' />
 
 ### About Me
 
