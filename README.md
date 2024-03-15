@@ -6,7 +6,7 @@
 
 - 🔭 A passionate about Analytics, Data science and AI at scale (Cloud computing). 🟢⚫
 - 🎓 I like investigating and building, solve problems with technology
-- 🌱 In my free time I work on side projects you can check out here on my github, on LinkedIn, my portfolio website and I make content about AI on tiktok. I also play the drums and piano, watch movies and TV shows,
+- 🌱 In my free time I work on side projects you can check out here on my github, on LinkedIn, my portfolio website and I make content about AI on tiktok. I also play the drums and piano, watch movies and TV shows, video games
 -  read, spend time with the loved ones, dance and exercise (Basket, soccer(Football)),being active in general. 
 - ⚡ Check out my <a href="https://www.linkedin.com/in/jean-yvens-alberus-986671169" target="_blank" rel="noreferrer noopener">LinkedIn 🔵</a> and <a href="https://yvens94.github.io/" target="_blank" rel="noreferrer noopener">portfolio website 🔴</a>!
 
