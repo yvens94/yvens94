@@ -15,7 +15,7 @@
 - 💻 Visualization: Tableau, PowerBI, matplotlib, seaborn, Excel, Quicksights
 - 🛠 Frameworks and tools: Visual Studio Code, pycharm, Tensorflow, Keras, Hugginface, 
 
-<a href="https://github.com/yvens94">
+<a href="https://github.com/yvens94/yvens94">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
 username=yvens94&hide=makefile,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
