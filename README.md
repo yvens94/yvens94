@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 🔭 A passionate about Analytics, Data science and AI at scale (Cloud computing). 🟢⚫
+- 🔭 A passionate about Analytics, Data science and AI at scale. 🟢⚫
 - 🎓 I like investigating and building, solve problems with technology
 - 🌱 In my free time I work on side projects you can check them out here on my github, on LinkedIn, my portfolio website and I make content about AI on tiktok. I also play video games, drums and piano, I like watch movies and TV shows,
 -  read, spend time with the loved ones, dance and exercise (Basket, soccer(Football)),being active in general. 
